@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hızır Yılmaz</h1>
-<h3 align="center">Test Automation Engineer from Turkiye</h3>
+<h3 align="center">Test Automation Engineer from Türkiye</h3>
 
 - 💬 Ask me about **Test Automation**
 
