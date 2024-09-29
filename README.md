@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hızır Yılmaz</h1>
 <h3 align="center">Test Automation Engineer from Türkiye</h3>
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR3OGMya3VjbTdla29uOWFjdzhoc25uN3JhZ2cwMjN2bnU0bms1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwpEWQY13ZYi1tC/giphy.webp">
 
 - 💬 Ask me about **Test Automation**
 
