@@ -12,9 +12,6 @@
   <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/> 
   </a> 
-    <a href="https://k6.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/grafana/k6/master/assets/img/k6-logo.svg" alt="k6" width="40" height="40"/> 
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
