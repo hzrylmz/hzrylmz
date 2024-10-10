@@ -1,3 +1,15 @@
+<h1 align="center">Hi 👋, I'm Hızır Yılmaz</h1>
+<h3 align="center">Test Automation Engineer from Türkiye</h3>
+<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR3OGMya3VjbTdla29uOWFjdzhoc25uN3JhZ2cwMjN2bnU0bms1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwpEWQY13ZYi1tC/giphy.webp">
+
+- 💬 Ask me about **Test Automation**
+
+- 📫 How to reach me **hiziryilmaz00@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hiziryilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiziryilmaz" height="30" width="40" /></a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
