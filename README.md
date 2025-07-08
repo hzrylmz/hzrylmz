@@ -10,6 +10,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/hiziryilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiziryilmaz" height="30" width="40" /></a>
 </p>
+<h3 align="left">Support Me:</h3>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/hzrylmz" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%95-orange?style=flat-square" alt="Buy Me A Coffee">
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
