@@ -1,35 +1,57 @@
-<h1 align="center">Hi, I'm Hızır Yılmaz 👋</h1>
-<p align="center">
-  QA Automation Engineer • Indie App Developer • Creator of <strong>Tarify</strong> 🍽️
+<h1 align="center">Hi 👋, I'm Hızır Yılmaz</h1>
+<h3 align="center">Test Automation Engineer from Türkiye</h3>
+
+
+- 💬 Ask me about **Test Automation**
+
+- 📫 How to reach me **hiziryilmaz00@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hiziryilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiziryilmaz" height="30" width="40" /></a>
 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
+  </a> 
+  <a href="https://playwright.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+    <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
+  </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+  </a> 
 
----
 
-## 💼 About Me
 
-- 🧪 I break things so users don’t have to — QA Engineer with 3+ years of experience  
-- 🛠️ Currently developing **Tarify**, a recipe app for smart cooking  
-- 🌍 Based in Turkey, working in the automotive tech industry  
-- 💬 I also enjoy building tools & apps that help people in daily life
-
----
-
-## 🚀 My Projects
-
-- [🔹 Tarify (Recipe App)](https://github.com/hzrylmz/Tarify) – Find, save, and generate your weekly meals  
-- [🔹 ...Diğer projeler buraya eklenebilir]
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/hzrylmz)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/hzrylmz)
-
----
-
-## ☕ Support Me
-
-If you like what I’m building, consider buying me a coffee:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%95-orange?style=flat-square)](https://www.buymeacoffee.com/hzrylmz)
+</p>
