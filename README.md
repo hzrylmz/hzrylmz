@@ -13,7 +13,7 @@
 <h3 align="left">Support Me:</h3>
 <p align="left">
   <a href="https://www.buymeacoffee.com/hzrylmz" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%95-orange?style=flat-square" alt="Buy Me A Coffee">
+    <img src="[https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%95-orange?style=flat-square](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F477198%2Fbuy-me-a-coffee&psig=AOvVaw0N9Z0YRtA3_oMcN4hpdhZ6&ust=1752080933856000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiA55_grY4DFQAAAAAdAAAAABAE)" alt="Buy Me A Coffee">
   </a>
 </p>
 
